@@ -1,0 +1,9 @@
+#プロジェクト全体から除外
+__pycache__
+*.pyc
+*.pyo
+
+#root起点に除外
+/db.sqlite3
+/myvenv/
+/mysite/settings.py
