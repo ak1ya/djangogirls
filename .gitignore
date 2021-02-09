@@ -2,8 +2,13 @@
 __pycache__
 *.pyc
 *.pyo
+*~
+.DS_Store
+
 
 #root起点に除外
 /db.sqlite3
 /myvenv/
 /mysite/settings.py
+/.vscode
+/static
